@@ -11,15 +11,6 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aimene-BAHRI)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on **Private_Projects_XD**
-- 🌱 I’m currently learning **NodeJS**
-- 👯 I’m looking to collaborate on **Open Sources Projects**
-- 🤔 I’m looking for help IN Life -_- PS : **I'am Programmr I have no life**
-- 💬 Ask me about **Anything**
-**📫 How to reach me**: [![Twitter][1.1]][1], [![Facebook][2.1]][2], [![LinkedIn][3.1]][3] or on [![Github][4.1]][4]
-- ⚡ Fun fact: 
-  ##### The first programmer in the world was a woman
-  ##### The first programmer in the world was a woman
   
 <!-- Icons -->
 
@@ -45,7 +36,7 @@
 
 
 <p align="center">
-  <i> Let's connect! :<br>incoming_envelope: </i>
+  <i> Let's connect!:incoming_envelope: </i>
 </p>
 <p align="center">
    
